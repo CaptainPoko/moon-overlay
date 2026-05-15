@@ -1,4 +1,4 @@
-package com.poko.moon;
+package poko.moon;
 
 import java.awt.Color;
 import net.runelite.client.config.Config;

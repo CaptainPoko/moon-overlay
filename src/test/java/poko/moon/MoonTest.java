@@ -1,4 +1,4 @@
-package com.poko.moon;
+package poko.moon;
 
 import net.runelite.client.RuneLite;
 import net.runelite.client.externalplugins.ExternalPluginManager;

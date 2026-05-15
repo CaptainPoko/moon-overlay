@@ -1,4 +1,4 @@
-package com.poko.moon;
+package poko.moon;
 
 import javax.inject.Inject;
 import lombok.Getter;
