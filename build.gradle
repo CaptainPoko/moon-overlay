@@ -67,8 +67,3 @@ tasks.register('shadowJar', Jar) {
 	archiveClassifier.set('shadow')
 	archiveFileName.set("${rootProject.name}-${project.version}-all.jar")
 }
-properties {
-    displayName = "Moon Overlay"
-    author = "CaptainPoko"
-    description = "Displays an overlay depicting a moon, configurable by the user."
-}
