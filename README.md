@@ -1,2 +1,1 @@
-# Example
-An example greeter plugin
+This plugin creates a Moon Overlay that users can edit and adjust to their liking. Includes editable options such as: Moon Colour, size and position. Also simulates an editable orbit and phase cycles of the moon (Toggleable). Users may create profiles to save and load different presets on the fly. All options are located in the side panel.
